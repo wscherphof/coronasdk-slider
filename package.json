@@ -1,0 +1,33 @@
+{
+  "name": "coronasdk-slider",
+  "version": "0.0.1",
+  "description": "Turn a display object into a sliding panel",
+  "main": "init.lua",
+  "dependencies": {
+    "lua-loader": "~0.0.3",
+    "lua-events": "~0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wscherphof/coronasdk-slider.git"
+  },
+  "keywords": [
+    "lua",
+    "lua-loader",
+    "corona",
+    "sdk",
+    "coronasdk",
+    "slide",
+    "slider",
+    "menu",
+    "eventemitter"
+  ],
+  "author": "Wouter Scherphof",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/wscherphof/coronasdk-slider/issues"
+  }
+}
