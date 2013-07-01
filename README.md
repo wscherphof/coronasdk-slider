@@ -22,6 +22,7 @@ slidingpanel.on("slide") = function (position)
 end
 ```
 Now the user can swipe your panel. But you can also let it swipe by code, e.g. when the user taps a certain button: `slidingpanel.slide("left")` or `slidingpanel.slide("right")`
+
 Happen to have a TableView widget that you want to slide? Do this:
 ```lua
 local tableview = widget.newTableView(...)
